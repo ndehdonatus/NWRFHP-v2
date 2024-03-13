@@ -6,7 +6,7 @@ import Image from 'next/image'
 export default function DefaultCarousel() {
     return (
 
-        <Carousel className="w-full h-80 object-contain  ">
+        <Carousel className="w-full h-80 object-cover  ">
             <Image className='h-full'
                 alt="slider image" width={1200} height={1200}
                 src="/images/096A0522.jpg"
