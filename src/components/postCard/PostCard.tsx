@@ -196,7 +196,7 @@ const PostCard = () => {
                         <div className={styles.alidaContainer}>
                             <Image
                                 src="/images/yembe.jpg"
-                                alt="alida"
+                                alt="yembe"
                                 fill
                                 className={styles.alida}
                             />
