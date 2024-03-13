@@ -13,8 +13,8 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/fondoh.jpg"
-                                alt="fondoh"
+                                src="/images/fondoh1.jpg"
+                                alt="fondoh1"
                                 fill
                                 className={styles.alida}
                             />
