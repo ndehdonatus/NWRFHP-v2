@@ -84,7 +84,7 @@ const PostCard = () => {
                                 className={styles.alida}
                             />
 
-                            <h1 className={styles.title}>UMEIKAI WYCLIFF AYABA	</h1>
+                            <h1 className={styles.title}>UMEIKAI WYCLIFF AYAB	</h1>
 
                         </div>
 
