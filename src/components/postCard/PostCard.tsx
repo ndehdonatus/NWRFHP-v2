@@ -110,7 +110,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/njamsi.jpg"
+                                src="/images/njamsi.JPG"
                                 alt="njamsi"
                                 fill
                                 className={styles.alida}
@@ -138,7 +138,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/ndum.jpg"
+                                src="/images/ndum.JPG"
                                 alt="ndum"
                                 fill
                                 className={styles.alida}
@@ -195,7 +195,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/yembe.jpg"
+                                src="/images/yembe.JPG"
                                 alt="yembe"
                                 fill
                                 className={styles.alida}
@@ -250,7 +250,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/kuh.jpg"
+                                src="/images/kuh.JPG"
                                 alt="kuh"
                                 fill
                                 className={styles.alida}
@@ -276,7 +276,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/ndzi.jpg"
+                                src="/images/ndzi.JPG"
                                 alt="ndzi"
                                 fill
                                 className={styles.alida}
@@ -303,7 +303,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/tome.jpg"
+                                src="/images/tome.JPG"
                                 alt="tome"
                                 fill
                                 className={styles.alida}
@@ -331,7 +331,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/anembum.jpg"
+                                src="/images/anembum.JPG"
                                 alt="anembum"
                                 fill
                                 className={styles.alida}
@@ -384,7 +384,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/sam.jpg"
+                                src="/images/sam.JPG"
                                 alt="sam"
                                 fill
                                 className={styles.alida}
@@ -411,7 +411,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/musa.jpg"
+                                src="/images/musa.JPG"
                                 alt="musa"
                                 fill
                                 className={styles.alida}
@@ -438,7 +438,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/ndong.jpg"
+                                src="/images/ndong.JPG"
                                 alt="ndong"
                                 fill
                                 className={styles.alida}
@@ -464,7 +464,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/ngwenei.jpg"
+                                src="/images/ngwenei.JPG"
                                 alt="ngwenei"
                                 fill
                                 className={styles.alida}
@@ -492,7 +492,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/ngwana.jpg"
+                                src="/images/ngwana.JPG"
                                 alt="ngwana"
                                 fill
                                 className={styles.alida}
@@ -520,7 +520,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/nfor.jpg"
+                                src="/images/nfor.JPG"
                                 alt="nfor"
                                 fill
                                 className={styles.alida}
@@ -574,7 +574,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/ambe.jpg"
+                                src="/images/ambe.JPG"
                                 alt="ambe"
                                 fill
                                 className={styles.alida}
@@ -602,7 +602,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/apo.jpg"
+                                src="/images/apo.JPG"
                                 alt="apo"
                                 fill
                                 className={styles.alida}
@@ -655,7 +655,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/comet.jpg"
+                                src="/images/comet.JPG"
                                 alt="comet"
                                 fill
                                 className={styles.alida}
@@ -683,7 +683,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/denis.jpg"
+                                src="/images/denis.JPG"
                                 alt="denis"
                                 fill
                                 className={styles.alida}
@@ -740,7 +740,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/lukong.jpg"
+                                src="/images/lukong.JPG"
                                 alt="lukong"
                                 fill
                                 className={styles.alida}
@@ -769,7 +769,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/mbah.jpg"
+                                src="/images/mbah.JPG"
                                 alt="mbah"
                                 fill
                                 className={styles.alida}
@@ -798,7 +798,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/zuh.jpg"
+                                src="/images/zuh.JPG"
                                 alt="zuh"
                                 fill
                                 className={styles.alida}
@@ -907,7 +907,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/njaibo.jpg"
+                                src="/images/njaibo.JPG"
                                 alt="njaibo"
                                 fill
                                 className={styles.alida}
@@ -963,7 +963,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/.jpg"
+                                src="/images/.JPG"
                                 alt="nfor"
                                 fill
                                 className={styles.alida}
@@ -1072,7 +1072,7 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/nkambi.jpg"
+                                src="/images/nkambi.JPG"
                                 alt="nkambi"
                                 fill
                                 className={styles.alida}
