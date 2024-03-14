@@ -990,13 +990,13 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/alida.jpg"
-                                alt="alida"
+                                src="/images/dan.jpg"
+                                alt="dan"
                                 fill
                                 className={styles.alida}
                             />
 
-                            {/* <h1 className={styles.title}>Lorem ipsum dolor, sit </h1> */}
+                            <h1 className={styles.title}>ZOH DANIEL </h1>
                         </div>
 
                         <span className={styles.date}>30/12/2024</span>
@@ -1004,7 +1004,7 @@ const PostCard = () => {
 
                     <div className={styles.bottom}>
 
-                        <p className={styles.desc}>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias veritatis eum vel cupiditate deleniti suscipit, repellat consectetur sed dolore sit.</p>
+                        <p className={styles.desc}>STOREKEEPER/DRIVER</p>
                         <Link className={styles.link} href="./Team/post">
                             Read More
                         </Link>
