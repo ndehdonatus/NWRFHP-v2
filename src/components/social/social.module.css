@@ -1,0 +1,282 @@
+.content {
+    display: flex;
+    gap: 100px;
+    background-color: rgba(115, 115, 173, 0.735);
+    padding: 20px;
+    padding-bottom: 50px;
+    color: white;
+    margin-bottom: 50px;
+    align-items: center;
+}
+
+.img {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.text {
+    text-align: start;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 70px;
+    right: 4px;
+
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 30px;
+    padding: 8px;
+    z-index: 50px;
+    background-color: rgba(166, 162, 162, 0.435);
+    font-size: 15px;
+    color: white;
+
+}
+
+.social {
+    font-size: 64px;
+    margin: 0 auto;
+    text-align: start;
+    max-width: 1000px;
+    margin-bottom: 20px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.img {
+    border-radius: 40px;
+}
+
+.textContainer {
+    width: 400px
+}
+
+.container p {
+    margin-top: 20px;
+}
+
+.name {
+    margin-top: 50px;
+    background-color: blue;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.imgContainer {
+    flex: 1;
+
+}
+
+.title {
+    font-size: 40px;
+}
+
+.desc {
+    font-size: 20px;
+    font-weight: 300px;
+    background-color: rgb(16, 16, 150);
+    padding: 10px;
+    border-radius: 15px;
+    color: white
+}
+
+.subtitle {
+    color: var(--btn);
+    margin-bottom: 30px;
+}
+
+.imgTag {
+    object-fit: cover;
+    border-radius: 30px;
+
+}
+
+.imgHead {
+    border-radius: 40px;
+
+}
+
+.head {
+    background-color: rgba(80, 80, 134, 0.643);
+    border-radius: 40px;
+    padding: 50px;
+}
+
+.ndum {
+    width: 375px;
+    margin-top: 30px;
+    font-size: 17px;
+    font-weight: 300;
+    background-color: rgb(110, 110, 137);
+    padding: 10px;
+    border-radius: 15px;
+    color: white
+}
+
+.ndum a {
+    text-decoration: underline;
+    color: blue;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.ndum a:hover {
+    background-color: blue;
+    color: white;
+}
+
+.members {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+    background-color: rgb(13, 13, 85);
+    margin-top: 30px;
+    padding: 100px;
+    border-radius: 40px;
+}
+
+.imgMember1 {
+    border-radius: 30px;
+    background-color: blueviolet;
+    max-height: 300px;
+}
+
+.textMember {
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: rgb(8, 8, 179);
+    padding: 10px;
+    color: aliceblue;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.link {
+    color: aliceblue;
+}
+
+.link:hover {
+    background-color: rgb(112, 112, 216);
+    padding: 5px;
+    border-radius: 10px;
+    color: aliceblue;
+    width: 100px;
+    text-align: center;
+}
+
+.article {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    margin-bottom: 40px;
+    background-color: rgb(63, 63, 115);
+    padding: 30px;
+    border-radius: 40px;
+}
+
+.njamsi {
+    margin-top: 30px;
+    background-color: rgb(14, 14, 144);
+    color: white;
+    padding: 10px;
+    text-align: start;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.texts {
+    flex: 1;
+    background-color: rgb(14, 14, 144);
+    padding: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 15px;
+    color: white;
+}
+
+.imag {
+    border-radius: 30px;
+}
+
+.texts a {
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    margin-bottom: 40px;
+    background-color: rgb(102, 102, 141);
+    padding: 30px;
+    border-radius: 40px;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+    line-height: 1.8;
+}
+
+.card1{
+    width: 350px;
+    background-color: rgb(6, 6, 115);
+    line-height: 1.9;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.medal{
+    margin-top: 30px;
+    background-color: rgb(15, 15, 118);
+    padding: 15px;
+    border-radius: 20px;
+}
+.members h1{
+    font-size: 24px;
+}
+
+.article h1{
+    font-size: 24px;
+}
+.main h1{
+    font-size: 24px;
+}
+
+.head h1{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.head p {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+@media screen and (max-width:600px) {
+
+    .content,
+    .article,.main {
+        display: flex;
+        flex-direction: column;
+        /* width: 64px; */
+    }
+
+    .members {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .slider{
+        align-items: center;
+    }
+}

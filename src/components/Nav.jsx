@@ -35,6 +35,12 @@ export default function Nav() {
                 href: '/team',
                 name: 'OUR TEAM'
             },
+
+            {
+                id: '8',
+                href: '/socials',
+                name: 'Socials'
+            },
         ]
     }
 

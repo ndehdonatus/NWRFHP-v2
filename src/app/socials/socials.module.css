@@ -1,0 +1,11 @@
+.wrapper {
+    background-color: #555b55;
+}
+
+.slider {
+    margin: 0 auto;
+    max-width: 1300px;
+    background-color: rgb(18, 18, 118);
+    align-items: center;
+    /* padding-bottom: 50px; */
+}
