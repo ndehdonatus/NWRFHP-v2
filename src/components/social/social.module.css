@@ -6,7 +6,15 @@
     padding-bottom: 50px;
     color: white;
     margin-bottom: 50px;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1300px;
     align-items: center;
+    
+}
+
+.container{
+    margin-right: 30px;
 }
 
 .img {
@@ -34,12 +42,14 @@
 
 .social {
     font-size: 64px;
-    margin: 0 auto;
+
     text-align: start;
-    max-width: 1000px;
-    margin-bottom: 20px;
+
     color: white;
-    margin-bottom: 50px;
+    padding-bottom: 40px;
+    margin: 0 auto;
+    max-width: 1300px;
+    margin-top: 40px;
 }
 
 .img {
@@ -47,7 +57,8 @@
 }
 
 .textContainer {
-    width: 100%
+    width: 100%;
+    flex: 1;
 }
 
 .container p {
@@ -108,10 +119,12 @@
     background-color: rgba(80, 80, 134, 0.643);
     border-radius: 40px;
     padding: 50px;
+    max-width: 1300px;
+    margin: 0 auto;
 }
 
 .ndum {
-    width: 100%;
+    /* width: 100%; */
     margin-top: 30px;
     font-size: 17px;
     font-weight: 300;
@@ -141,6 +154,8 @@
     margin-top: 30px;
     padding: 100px;
     border-radius: 40px;
+    margin: 0 auto;
+    max-width: 1300px;
 }
 
 .imgMember1 {
@@ -180,6 +195,8 @@
     background-color: rgb(63, 63, 115);
     padding: 30px;
     border-radius: 40px;
+    margin: 0 auto;
+    max-width: 1300px;
 }
 
 .njamsi {
@@ -224,9 +241,11 @@
     font-weight: bold;
     color: white;
     line-height: 1.8;
+    margin: 0 auto;
+    max-width: 1300px;
 }
 
-.card1{
+.card1 {
     width: 100%;
     background-color: rgb(6, 6, 115);
     line-height: 1.9;
@@ -235,24 +254,26 @@
 
 }
 
-.medal{
+.medal {
     margin-top: 30px;
     background-color: rgb(15, 15, 118);
     padding: 15px;
     border-radius: 20px;
 }
-.members h1{
+
+.members h1 {
     font-size: 24px;
 }
 
-.article h1{
-    font-size: 24px;
-}
-.main h1{
+.article h1 {
     font-size: 24px;
 }
 
-.head h1{
+.main h1 {
+    font-size: 24px;
+}
+
+.head h1 {
     font-size: 24px;
     font-weight: bold;
 }
@@ -262,10 +283,16 @@
     font-weight: bold;
 }
 
+.sliders {
+    margin: 0 auto;
+    max-width: 1300px;
+}
+
 @media screen and (max-width:600px) {
 
     .content,
-    .article,.main {
+    .article,
+    .main {
         display: flex;
         flex-direction: column;
         /* width: 64px; */
@@ -276,7 +303,7 @@
         grid-template-columns: repeat(1, 1fr);
     }
 
-    .slider{
+    .slider {
         align-items: center;
     }
 }
