@@ -14,7 +14,7 @@
 }
 
 .container{
-   padding-right: 35px;
+    margin-right: 30px;
 }
 
 .img {
@@ -59,6 +59,7 @@
 .textContainer {
     width: 100%;
     flex: 1;
+    flex-wrap: wrap;
 }
 
 .container p {

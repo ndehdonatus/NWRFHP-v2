@@ -194,7 +194,7 @@ const SocialPage = () => {
                         <div className={styles.text}>
 
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -210,7 +210,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -224,7 +224,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -239,7 +239,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -255,7 +255,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -271,7 +271,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -287,7 +287,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -303,7 +303,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -319,7 +319,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -335,7 +335,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -351,7 +351,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -367,7 +367,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
@@ -382,7 +382,7 @@ const SocialPage = () => {
 
                         <div className={styles.text}>
                             <h1>hello</h1>
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
                     </div>
