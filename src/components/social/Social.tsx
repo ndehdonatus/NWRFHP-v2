@@ -32,7 +32,7 @@ const SocialPage = () => {
 
                     <h2 className={styles.subtitle}>About Our Social Activities</h2>
 
-                    <h1 className={styles.title}>We create digital ideas that are bigger,bolder,braver and better.</h1>
+                    <h1 className={styles.title}>We create digital ideas that are bigger,bolder,<br/>braver and better.</h1>
 
                     <p className={styles.desc}>We work every single day  during our working periods to render you with services that will provide you with the satisfaction you deserve. That is why we carry out social activities as one of our strategies to enable us complete our health package provision.</p>
 

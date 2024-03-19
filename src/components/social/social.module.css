@@ -91,6 +91,7 @@
     font-size: 40px;
     padding: 10px;
     text-align: start;
+    flex-wrap: wrap;
 }
 
 .desc {
@@ -311,9 +312,5 @@
     }
 
 
-    .title {
-
-        flex-wrap: wrap;
-        width: 100%;
-    }
+    
 }
