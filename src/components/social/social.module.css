@@ -21,7 +21,7 @@
     top: 70px;
     right: 4px;
 
-    width: 300px;
+    width: 100%;
     border: 2px solid black;
     border-radius: 30px;
     padding: 8px;
@@ -47,7 +47,7 @@
 }
 
 .textContainer {
-    width: 400px
+    width: 100%
 }
 
 .container p {
@@ -111,7 +111,7 @@
 }
 
 .ndum {
-    width: 375px;
+    width: 100%;
     margin-top: 30px;
     font-size: 17px;
     font-weight: 300;
@@ -227,7 +227,7 @@
 }
 
 .card1{
-    width: 350px;
+    width: 100%;
     background-color: rgb(6, 6, 115);
     line-height: 1.9;
     padding: 20px;

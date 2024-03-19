@@ -826,8 +826,8 @@ const PostCard = () => {
                     <div className={styles.top}>
                         <div className={styles.alidaContainer}>
                             <Image
-                                src="/images/matha.jpg"
-                                alt="matha"
+                                src="/images/matha2.jpg"
+                                alt="matha2"
                                 fill
                                 className={styles.alida}
                             />
