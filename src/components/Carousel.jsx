@@ -34,10 +34,10 @@ export default function DefaultCarousel() {
                 src="/images/head-office.jpg"
             />
 
-            {/* <Image className='h-full'
+            <Image className='h-full'
                 alt="slider image" width={1200} height={1200}
                 src="/images/nnfca.jpg"
-            /> */}
+            />
 
 
             <Image className='h-full'
@@ -45,15 +45,15 @@ export default function DefaultCarousel() {
                 src="/images/vanca.jpg"
             />
 
-            {/* <Image className='h-full'
+            <Image className='h-full'
                 alt="slider image" width={1200} height={1200}
                 src="/images/nkca.jpg"
-            /> */}
+            />
 
-            {/* <Image className='h-full'
+            <Image className='h-full'
                 alt="slider image" width={1200} height={1200}
                 src="/images/csmu1.jpg"
-            /> */}
+            />
 
 
             <Image className='h-full'
@@ -67,10 +67,10 @@ export default function DefaultCarousel() {
                 src="/images/yembe1.jpg"
             />
 
-            {/* <Image className='h-full'
+            <Image className='h-full'
                 alt="slider image" width={1200} height={1200}
                 src="/images/comca.jpg"
-            /> */}
+            />
 
             <Image className='h-full'
                 alt="slider image" width={1200} height={1200}
@@ -88,23 +88,23 @@ export default function DefaultCarousel() {
                 src="/images/management1.jpg"
             />
 
-            {/* <Image className='h-full'
+            <Image className='h-full'
                 alt="slider image" width={1200} height={1200}
                 src="/images/fonca.jpg"
-            /> */}
+            />
 
             <Image className='h-full'
                 alt="slider image" width={1200} height={1200}
                 src="/images/ndehca.jpg"
             />
-            {/* <Image className='h-full'
+            <Image className='h-full'
                 alt="slider image" width={1200} height={1200}
                 src="/images/intenship.jpg"
-            /> */}
-            {/* <Image className='h-full'
+            />
+            <Image className='h-full'
                 alt="slider image" width={1200} height={1200}
                 src="/images/fon3.jpg"
-            /> */}
+            />
             <Image className='h-full'
                 alt="slider image" width={1200} height={1200}
                 src="/images/medalists.jpg"
