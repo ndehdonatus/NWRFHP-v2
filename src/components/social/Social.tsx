@@ -187,13 +187,13 @@ const SocialPage = () => {
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social1.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social1.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 
                         <div className={styles.text}>
 
-                            <h1>hello</h1>
+                            {/* <h1>hello</h1> */}
                             {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
 
                         </div>
@@ -204,7 +204,7 @@ const SocialPage = () => {
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social2.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social2.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 
@@ -218,22 +218,7 @@ const SocialPage = () => {
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social3.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
-
-                        </div>
-
-                        <div className={styles.text}>
-                            <h1>hello</h1>
-                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
-
-                        </div>
-                    </div>
-
-
-                    <div className={styles.slider}>
-                        <div className={styles.img}>
-
-                            <Image src="/images/social4.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social3.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 
@@ -245,11 +230,10 @@ const SocialPage = () => {
                     </div>
 
 
-
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social5.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social4.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 
@@ -265,7 +249,7 @@ const SocialPage = () => {
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social6.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social5.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 
@@ -281,7 +265,7 @@ const SocialPage = () => {
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social7.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social6.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 
@@ -297,7 +281,7 @@ const SocialPage = () => {
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social8.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social7.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 
@@ -313,7 +297,7 @@ const SocialPage = () => {
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social10.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social8.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 
@@ -329,7 +313,7 @@ const SocialPage = () => {
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social1.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social10.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 
@@ -345,7 +329,7 @@ const SocialPage = () => {
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social12.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social1.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 
@@ -361,7 +345,23 @@ const SocialPage = () => {
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social2.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social12.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
+
+                        </div>
+
+                        <div className={styles.text}>
+                            <h1>hello</h1>
+                            {/* <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi tenetur laborum cumque, corporis eaque nesciunt quo rerum dignissimos quisquam repellendus.</p> */}
+
+                        </div>
+                    </div>
+
+
+
+                    <div className={styles.slider}>
+                        <div className={styles.img}>
+
+                            <Image src="/images/social2.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 
@@ -376,7 +376,7 @@ const SocialPage = () => {
                     <div className={styles.slider}>
                         <div className={styles.img}>
 
-                            <Image src="/images/social3.jpg" alt="slider image" className="h-full" width={1200} height={1200} />
+                            <Image src="/images/social3.jpg" alt="slider image" className="h-full object-top" width={1200} height={1200} />
 
                         </div>
 

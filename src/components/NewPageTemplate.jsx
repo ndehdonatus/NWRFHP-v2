@@ -8,10 +8,6 @@ const page = () => {
             data-aos-duration="1000"
         >
             <div className=" container mx-auto p-4" >
-               
-               
-
-
             </div>
         </div>
     )
