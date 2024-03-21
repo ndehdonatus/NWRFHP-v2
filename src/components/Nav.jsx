@@ -41,6 +41,12 @@ export default function Nav() {
                 href: '/socials',
                 name: 'Socials'
             },
+
+            {
+                id: '9',
+                href: '/infos',
+                name: 'Infos'
+            },
         ]
     }
 
