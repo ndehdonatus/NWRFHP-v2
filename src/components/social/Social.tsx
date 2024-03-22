@@ -102,7 +102,7 @@ const SocialPage = () => {
                     <Image className={styles.imgMember1} src="/images/anembum.JPG" alt="anembum" width={350} height={400} />
 
                     <div className={styles.textMember}>
-                        <h1>ASAFOR ATUNGOMBI ANIMBUM</h1>
+                        <h1>ASAFOR ATUNGOMBI ANIMBOM</h1>
                         <p>Works in the Office of the Administrator as Administrative Assistant</p>
                     </div>
                 </div>
@@ -120,7 +120,7 @@ const SocialPage = () => {
                     <Image className={styles.imgMember1} src="/images/ambe.JPG" alt="ambe" width={350} height={400} />
 
                     <div className={styles.textMember}>
-                        <h1>TAMAJONG DIVINE AMBE</h1>
+                        <h1>TAMANJONG DIVINE AMBE</h1>
                         <p>Works in the Regional Medical Store Unit as a storekeeper</p>
                     </div>
                 </div>

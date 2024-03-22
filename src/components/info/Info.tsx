@@ -27,7 +27,7 @@ export default function DefaultInfo() {
 
                         <div className={styles.text}>
                             <h1>LUKONG JULIUS</h1>
-                            <p>Coaching on the use of Patograph at Mbingo Baptist.</p>
+                            {/* <p>Coaching on the use of Patograph at Mbingo Baptist.</p> */}
 
                         </div>
                     </div>
@@ -40,8 +40,8 @@ export default function DefaultInfo() {
                         </div>
 
                         <div className={styles.text}>
-                            <h1>KUH JOESEPH</h1>
-                            <p>A supply van to Fundong had a tyre puncture .</p>
+                            <h1>KUH JOSEPH</h1>
+                            {/* <p>A supply van to Fundong had a tyre puncture .</p> */}
 
                         </div>
                     </div>
@@ -54,8 +54,8 @@ export default function DefaultInfo() {
                         </div>
 
                         <div className={styles.text}>
-                            <h1>KUH JOESEPH</h1>
-                            <p>Offloading of medicines donated by International Medical core at Fundong Health District.</p>
+                            <h1>KUH JOSEPH</h1>
+                            {/* <p>Offloading of medicines donated by International Medical core at Fundong Health District.</p> */}
 
                         </div>
                     </div>
