@@ -47,6 +47,12 @@ export default function Nav() {
                 href: '/infos',
                 name: 'Infos'
             },
+
+            {
+                id: '10',
+                href: '/animation',
+                name: 'Animation'
+            },
         ]
     }
 
